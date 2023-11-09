@@ -1,1 +1,2 @@
-# endless-platformer
+# oop-project
+Project for OOP
